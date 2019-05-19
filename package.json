@@ -1,0 +1,23 @@
+{
+  "name": "test_node",
+  "version": "1.0.0",
+  "description": "sasa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huzhichong/test_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huzhichong/test_node/issues"
+  },
+  "homepage": "https://github.com/huzhichong/test_node#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
